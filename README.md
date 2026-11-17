@@ -1,6 +1,5 @@
 # Ambulance-Booking-System
 A C++ based Ambulance Booking System using OOP concepts
-# Ambulance Booking System
 
 ## About the Project
 The Ambulance Booking System is a console-based C++ application developed using Object-Oriented Programming (OOP) concepts. It helps users book ambulances, check booking status, and cancel bookings.
